@@ -24,9 +24,9 @@ Progress Learning Achievements (*74%*)
 - Visualizing data
 
 **06 November 2023**<br>
-Progress Learning Achievements (*%*)
+Progress Learning Achievements (*80%*)
 - Data Documentation such as blockchain
 - Gestalt Prinsiple
-- 
+  
 ## 🐍 Start with Python.
 ## 🤖 Machine learning for Beginner.
