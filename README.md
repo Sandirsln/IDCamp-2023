@@ -22,6 +22,11 @@ Progress Learning Achievements (*74%*)
 - Pivot Table Features
 - Get 100% quiz
 - Visualizing data
-  
+
+**06 November 2023**<br>
+Progress Learning Achievements (*%*)
+- Data Documentation such as blockchain
+- Gestalt Prinsiple
+- 
 ## 🐍 Start with Python.
 ## 🤖 Machine learning for Beginner.
