@@ -34,6 +34,11 @@ Progress Learning Achievements (*100%*)
 ## 🐍 Start with Python.
 **08 November 2023**<br>
 Progress Learning Achievements (*8%*)
-- into python
+- into to python
+  
+**09 November 2023**<br>
+Progress Learning Achievements (*18%*)
+- Input & Output dan Komentar
+- Variable and assegment
 
 ## 🤖 Machine learning for Beginner.
