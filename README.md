@@ -41,4 +41,10 @@ Progress Learning Achievements (*18%*)
 - Input & Output dan Komentar
 - Variable and assegment
 
+**11 November 2023**<br>
+Progress Learning Achievements (*29%*)
+- Tipe Data
+- Transformasi Angka, Karakter, dan String
+- Operasi pada List, Set, dan String
+
 ## 🤖 Machine learning for Beginner.
