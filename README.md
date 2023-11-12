@@ -48,7 +48,7 @@ Progress Learning Achievements (*29%*)
 - Operations on Lists, Sets, and Strings
 
 **12 November 2023**<br>
-Progress Learning Achievements (*45%*)
+Progress Learning Achievements (*48%*)
 - Python Expressions
 - Arithmetic, Relational, Logical Operators
 - Sequential Actions: One-liners, Python Interpreter
