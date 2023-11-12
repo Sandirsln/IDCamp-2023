@@ -43,8 +43,16 @@ Progress Learning Achievements (*18%*)
 
 **11 November 2023**<br>
 Progress Learning Achievements (*29%*)
-- Tipe Data
-- Transformasi Angka, Karakter, dan String
-- Operasi pada List, Set, dan String
+- Data Types
+- Transformation of Numbers, Characters, and Strings
+- Operations on Lists, Sets, and Strings
+
+**12 November 2023**<br>
+Progress Learning Achievements (*45%*)
+- Python Expressions
+- Arithmetic, Relational, Logical Operators
+- Sequential Actions: One-liners, Python Interpreter
+- Control Flow: Branching and Ternary Operator
+- Loops
 
 ## 🤖 Machine learning for Beginner.
