@@ -70,5 +70,6 @@ Progress Learning Achievements (*100%*)
 - Learned about Python libraries.
 - Successfully completed the final exam with a score of 90%.
 
+![Dicoding](https://github.com/Sandirsln/IDCamp-2023/assets/91171126/0b362ef6-9fa1-4d77-b373-e61bd00a8a36)
 
 ## 🤖 Machine learning for Beginner.
