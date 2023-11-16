@@ -30,6 +30,8 @@ Progress Learning Achievements (*80%*)
 **07 November 2023**<br>
 Progress Learning Achievements (*100%*)
 
+![Dicoding](https://github.com/Sandirsln/IDCamp-2023/assets/91171126/6ea7ed9f-1da7-4f68-ae3f-32a7cd4f9379)
+
 ## 🐍 Start with Python.
 **08 November 2023**<br>
 Progress Learning Achievements (*8%*)
