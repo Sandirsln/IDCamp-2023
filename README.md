@@ -20,7 +20,6 @@ Progress Learning Achievements (*52%*)
 **05 November 2023**<br>
 Progress Learning Achievements (*74%*)
 - Pivot Table Features
-- Get 100% quiz
 - Visualizing data
 
 **06 November 2023**<br>
@@ -54,5 +53,22 @@ Progress Learning Achievements (*48%*)
 - Sequential Actions: One-liners, Python Interpreter
 - Control Flow: Branching and Ternary Operator
 - Loops
+
+**14 November 2023**<br>
+Progress Learning Achievements (*78%*)
+- Covered fundamentals, implementations, and sequential arrays.
+- Explored fundamentals and implementations of matrices.
+- Defined subprograms, functions, and procedures.
+- Introduced Object-Oriented Programming (OOP) concepts.
+- Discussed Duck Typing.
+- Explored the concepts of Class, Object, and Method.
+  
+**16 November 2023**<br>
+Progress Learning Achievements (*100%*)
+- Explored Style Guide principles.
+- Delved into Unit Testing methodologies.
+- Learned about Python libraries.
+- Successfully completed the final exam with a score of 90%.
+
 
 ## 🤖 Machine learning for Beginner.
