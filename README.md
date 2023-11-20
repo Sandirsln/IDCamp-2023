@@ -90,4 +90,6 @@ Progress Learning Achievements (*98%*)
 
 **20 November 2023**<br>
 Progress Learning Achievements (*100%*)
-- Get 4 star on final project
+- Get 4 star on final project 
+
+![Dicoding](https://github.com/Sandirsln/IDCamp-2023/assets/91171126/4863aad2-a6d3-4cc1-abea-4ea15475aeda)
