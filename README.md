@@ -75,3 +75,19 @@ Progress Learning Achievements (*100%*)
 ![Dicoding](https://github.com/Sandirsln/IDCamp-2023/assets/91171126/0b362ef6-9fa1-4d77-b373-e61bd00a8a36)
 
 ## 🤖 Machine learning for Beginner.
+**16 November 2023**<br>
+Progress Learning Achievements (*10%*)
+- data introduction
+- data collecting, cleaning, processing, preparition
+
+**18 November 2023**<br>
+Progress Learning Achievements (*98%*)
+- supervised, unsupervised learning
+- SVM. SVR
+- Overvitting, underfitting
+- Neural Network
+- Tensorflow
+
+**20 November 2023**<br>
+Progress Learning Achievements (*100%*)
+- Get 4 star on final project
